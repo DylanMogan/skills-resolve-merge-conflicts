@@ -24,3 +24,4 @@ Managed multiple asynchronous teams in the development, maintenance, and release
 
 - Contributed to open source projects
 
+- Built internal tools
